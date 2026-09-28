@@ -1,0 +1,6 @@
+# Ignore editor junk
+*~
+*.swp
+.DS_Store
+.vscode/
+.idea/
